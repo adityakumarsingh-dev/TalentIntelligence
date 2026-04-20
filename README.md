@@ -132,4 +132,4 @@ The application will be accessible at `http://localhost:3000`
 
 ---
 
-*Developed by **Aditya Kumar Singh** | Bachelor of Computer Applications (BCA) | CIMAGE College, Patna*
+*Developed by **Aditya Kumar Singh** | Bachelor of Computer Applications (BCA) | CIMAGE Professional College, Patna*
