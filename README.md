@@ -1,4 +1,4 @@
-# 🛡️ TalentIntelligence:AI-Powered Placement Intelligence & Resume Analyzer
+# 🛡️ TalentIntelligence: AI-Powered Placement Intelligence & Resume Analyzer
 
 **Official Submission for CIMAGE Hackathon 2026**
 *The Future of Semantic Resume Intelligence & Placement Analytics*
