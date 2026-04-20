@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <style>
+    /* Default: Light Mode Colors */
+    .t1 { fill: #4f46e5; } 
+    .t2 { fill: #3730a3; } 
+    .i1 { fill: #059669; } 
+    .dot { fill: #0891b2; }
+
+    /* Dark Mode Colors (Automatically applied by browser) */
+    @media (prefers-color-scheme: dark) {
+      .t1 { fill: #6366f1; }
+      .t2 { fill: #4f46e5; }
+      .i1 { fill: #10b981; }
+      .dot { fill: #22d3ee; }
+    }
+  </style>
+  
+  <rect x="90" y="70" width="140" height="60" rx="30" class="t1" />
+  <rect x="130" y="150" width="60" height="180" rx="30" class="t2" />
+  <rect x="250" y="150" width="60" height="180" rx="30" class="i1" />
+  <circle cx="280" cy="100" r="30" class="dot" />
+  <circle cx="280" cy="100" r="12" fill="#ffffff" opacity="0.9" />
+</svg>
